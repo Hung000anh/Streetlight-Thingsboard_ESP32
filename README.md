@@ -48,7 +48,7 @@ A smart streetlight project using **ESP32** and **ThingsBoard** to monitor ambie
 
 Below is the **circuit diagram** showing how the **ESP32** is connected to the **LDR sensor** and other components (e.g., LED, power supply).
 
-![Circuit Diagram](output\circuit.png)
+![Circuit Diagram](/output/circuit.png)
 
 ---
 
@@ -65,7 +65,7 @@ Sending Telemetry:
 }
 ```
 
-![Terminal Output](output\terminal.png)
+![Terminal Output](/output/terminal.png)
 
 ---
 
@@ -75,7 +75,7 @@ The ThingsBoard dashboard allows you to visualize real-time data such as **ambie
 
 Below is an example of the **ThingsBoard dashboard** that shows the real-time data:
 
-![ThingsBoard Dashboard](output\dashboard.png)
+![ThingsBoard Dashboard](/output/dashboard.png)
 
 ---
 
